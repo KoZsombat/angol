@@ -22,6 +22,8 @@ monetizálás
 
 feedback és bugfix
 
+általános rövidítések kifejtése pl npc, dlc
+
 ### Előadás:
 
 10 kérdéses kahoot hogy ki mit tud

@@ -21,3 +21,11 @@ hol publikálod, hirdetés
 monetizálás
 
 feedback és bugfix
+
+### Előadás:
+
+10 kérdéses kahoot hogy ki mit tud
+
+előadás
+
+ugyan az a kérdéssor hogy mennyit tanultak

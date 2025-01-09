@@ -2,7 +2,7 @@
 
 ### platform:
 
-kahoot / quizezz
+quizezz
 
 online ppt / canva
 

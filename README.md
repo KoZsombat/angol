@@ -30,4 +30,4 @@ feedback és bugfix
 
 előadás
 
-ugyan az a kérdéssor hogy mennyit tanultak
+ugyan az a kérdéssor átfogalmazva hogy mennyit tanultak

@@ -12,7 +12,7 @@ mi kell egy játék elkészítéséhez
 
 játék típusok
 
-enginek bemutatása
+enginek bemutatása játék példákkal
 
 gyakori prog nyelvek a választáshoz
 

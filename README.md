@@ -6,7 +6,7 @@ quizezz
 
 online ppt / canva
 
-### AI PROMOPT:
+### AI PROMOPT A PREZENTÁCIÓHOZ:
 
 mi kell egy játék elkészítéséhez
 játék típusok
@@ -25,7 +25,9 @@ előadás
 
 ugyan az a kérdéssor átfogalmazva hogy mennyit tanultak
 
-### ...
+### AI PROMPT A SZAVAKHOZ:
+
+Fogalmazd meg ezeket a szavakat olyan embereknek akik nem értenek a témához maximum egy mondatban: Assets, ai, ui/ux, rendering, shaders, optimization, playtesting, multiplayer, prefabs, script, collision, framerate, networking, post processing, scenes
 
 1.	Assets – A játékhoz szükséges elemek, például objektumok, képek, hangok vagy scriptek, amiket a fejlesztés során felhasználnak.
 2.	AI – Mesterséges intelligencia, amit például a játékban lévő karakterek (NPC-k) mozgására, viselkedésére vagy beszédére használnak.

@@ -6,22 +6,15 @@ quizezz
 
 online ppt / canva
 
-### tartalom:
+### AI PROMOPT:
 
 mi kell egy játék elkészítéséhez
-
 játék típusok
-
 enginek bemutatása játék példákkal
-
 gyakori prog nyelvek a választáshoz
-
 hol publikálod, hirdetés
-
 monetizálás
-
 feedback és bugfix
-
 általános rövidítések kifejtése pl npc, dlc
 
 ### Előadás:

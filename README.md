@@ -27,6 +27,8 @@ quiz ki mit tanult
 
 ### AI PROMPT AZ ELŐADÁSHOZ:
 
+![image](https://github.com/user-attachments/assets/44555061-becf-4761-b6d5-e9079ac05085)
+
 ## game engines, game types:
 
 ![image](https://github.com/user-attachments/assets/7ade99e7-ab0b-4c3e-9c6d-5a1a891f83e9)
@@ -60,4 +62,4 @@ Fogalmazd meg ezeket a szavakat olyan embereknek akik nem értenek a témához m
  
 https://gamma.app/docs/Jatekfejlesztes-A-tol-Z-ig-1afqevsx2f6x7tp
 
-
+https://quizizz.com/admin/quiz/67878b5579de0db9c7341ecc

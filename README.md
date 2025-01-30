@@ -19,11 +19,23 @@ feedback és bugfix
 
 ### Előadás:
 
-10 kérdéses kahoot hogy ki mit tud
+kérdés ki mit gondol a játék fejlesztésről
 
 előadás
 
-ugyan az a kérdéssor átfogalmazva hogy mennyit tanultak
+quiz ki mit tanult
+
+### AI PROMPT AZ ELŐADÁSHOZ:
+
+## game engines, game types:
+
+![image](https://github.com/user-attachments/assets/7ade99e7-ab0b-4c3e-9c6d-5a1a891f83e9)
+
+![image](https://github.com/user-attachments/assets/66567303-99ba-4be5-b3fb-9c1227453d66)
+
+![image](https://github.com/user-attachments/assets/14009d5f-028a-4e7f-aa63-24670f8cc54d)
+
+![image](https://github.com/user-attachments/assets/84dc173c-c139-49ad-9c20-9af9f1f9c58d)
 
 ### AI PROMPT A SZAVAKHOZ:
 
@@ -44,7 +56,7 @@ Fogalmazd meg ezeket a szavakat olyan embereknek akik nem értenek a témához m
 13.	Networking – Az online funkciók beépítése, például a többjátékos módhoz szükséges internetkapcsolat kezelése.
 14.	Post Processing – Egy extra grafikai lépés, ami a játék kinézetét tovább javítja, például színek vagy effektek hozzáadásával.
 15.	Scenes – A játék különböző részei vagy felületei, például a főmenü, a pályák vagy a beállítások képernyője.
- 
+
  
 https://gamma.app/docs/Jatekfejlesztes-A-tol-Z-ig-1afqevsx2f6x7tp
 
